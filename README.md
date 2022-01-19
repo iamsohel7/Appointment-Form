@@ -1,6 +1,6 @@
 # Appointment-Form
 
-## Clone the this repository in your local machine
+## Clone this repository in your local machine
 
 ### Install the packages for frontend and backend folders with "npm install" command
 
